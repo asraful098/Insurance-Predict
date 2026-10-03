@@ -21,8 +21,8 @@ try:
 except FileNotFoundError:
     st.error('Model file not found')
     st.info(
-        "Please make sure 'best_insurance_model.joblib' "
-        "exists inside the models folder."
+    "Please make sure 'best_insurance_model.joblib' "
+    "exists inside the models folder."
     )
     st.stop()
 

@@ -6,7 +6,7 @@ from pathlib import Path
 
 st.set_page_config(
     page_title='Insurance Cost Prediction',
-    page_icon='logo/logo.jpj',
+    page_icon='logo/logo.jpg',
     layout='centered'
 )
 

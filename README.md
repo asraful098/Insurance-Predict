@@ -72,7 +72,6 @@ charges
 Several regression algorithms are evaluated during the project, including:
 
 * Linear Regression
-* Ridge Regression
 * Random Forest Regressor
 * Gradient Boosting Regressor
 * XGBoost Regressor
